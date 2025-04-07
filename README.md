@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wassup+👋;+I'm+Acemix!;" />
+</h1>
 
-<!--
-**acemix/acemix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I am a Software Engineer & Handle more Threads</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+Coming soon information
+ 
+</div>
+<h2 align="center">  </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,idea,vscode,html,css,bots,discord,kotlin,maven,ps,js,git,mysql" />
+</div>
